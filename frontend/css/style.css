@@ -12,8 +12,8 @@
   --bg-color-transparent: #2a013a80;
   --font-color: #f2e691;
   --btn-bg-color: #ffffff;
-  --accent-color: #d0a7f9;
-  --header-shadow: var(--accent-color) 0px 0px 5px;
+  --accent-color: #300060;
+  --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
 
