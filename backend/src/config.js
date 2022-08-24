@@ -51,14 +51,14 @@ const LIMIT = 10; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Mini Moonbirds';
+const CONTRACT_NAME = 'MiniMoonbirds';
 const CONTRACT_SYMBOL = 'MMB';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xA30796e3Ea64b1eCEdA24E9727F24809Aca5EAA4';
 const TREASURY_ADDRESS = '0xA30796e3Ea64b1eCEdA24E9727F24809Aca5EAA4';
 const MAX_SUPPLY = 10000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.005; // Minting price per NFT. Rinkeby = ETH, Ethereum = ETH, Polygon = MATIC. CANNOT BE UPDATED!
-const TOKENS_PER_MINT = 5; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
+const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
 const PUBLIC_MINT_START_DATE = "2022-08-26T11:30:05+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
