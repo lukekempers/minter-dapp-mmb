@@ -280,7 +280,7 @@ function setTotalPrice() {
   const totalPrice = document.getElementById("totalPrice");
   const mintButton = document.getElementById("mintButton");
   if(mintInputValue < 1 || mintInputValue > info.deploymentConfig.tokensPerMint) {
-    totalPrice.innerText = 'INVALID QUANTITY';
+    totalPrice.innerText = '0.005';
     mintButton.disabled = true;
     mintInput.disabled = true;
     return;

@@ -2,6 +2,7 @@ const contractAddress = "0x3A3e0084522427A7f2Ee633073543EA0eE3794Dd"; // Replace
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Mini Moonbirds NFT";
+const welcome_h2 = "sss"
 const welcome_p = 'The Mini Moonbirds NFT Project is derivative project of Moonbirds';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
