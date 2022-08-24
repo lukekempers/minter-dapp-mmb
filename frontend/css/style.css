@@ -8,8 +8,8 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #541567;
-  --bg-color-transparent: #87299980;
+  --bg-color: #1a084a;
+  --bg-color-transparent: #20094480;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #000000;
@@ -35,7 +35,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
